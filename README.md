@@ -1,5 +1,7 @@
 # Kanji Maze
 
+Test project for teaching Java.
+
 Game for practicing kanji readings.
 Goal of the game: reach the end of the maze by entering readings of each kanji on the way.
 
