@@ -11,10 +11,10 @@ Completely deterministic order, each kanji has just one reading.
 
 ### STEP 1
 
-1. Show maze like this: [●] [猫]　[机]　[山]　[酒]　[✖︎]
+1. Show maze like this: [●]　[猫]　[机]　[山]　[酒]　[✖︎]
 2. Show explanation: You need to get from [●] to [✖︎].
 3. Ask user to enter reading of each kanji one by one, starting from [猫].
-4. When user answeres correctly - show map again [ ] [●]　[机]　[山]　[酒]　[✖︎].
+4. When user answeres correctly - show map again [ ]　[●]　[机]　[山]　[酒]　[✖︎].
 5. When user makes mistake - ask again.
 6. When user reaches [✖︎] - show `You win!`.
 
