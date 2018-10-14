@@ -19,7 +19,7 @@ public class GameExec {
  * O 3) Ask user to enter reading of each kanji one by one, starting from [猫].
  * O 4) When user answeres correctly - show map again [✔]　[●]　[机]　[山]　[酒]　[✖︎].
  * O 5) When user makes mistake - ask again.
- * O 6) When user reaches [✖︎] - show You win!.
+ * O 6) When user reaches [✖︎] - show You win!
  *
  * All methods are defined at the bottom! - WORK IN PROGRESS
  */
