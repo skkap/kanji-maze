@@ -24,7 +24,7 @@ User can make only 3 mistakes, if more - show `GAME OVER` and exit.
 
 ### STEP 3
 
-Add map overview at the begining.
+Add game map overview at the begining.
 
 ## PHASE 2
 
