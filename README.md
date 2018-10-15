@@ -22,6 +22,10 @@ Completely deterministic order, each kanji has just one reading.
 
 User can make only 3 mistakes, if more - show `GAME OVER` and exit.
 
+### STEP 3
+
+Add map overview at the begining.
+
 ## PHASE 2
 
 Random order of kanji from the list, there could be several readings.
